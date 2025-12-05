@@ -50,7 +50,7 @@ Creation of a fully functional dashboard and presentation showcasing findings.
 Dataset: kakuma_education_access.csv
 
 Fields:
-
+![image alt](https://github.com/kuothmaar/School-Attendance-and-Dropout-Patterns-in-Kakuma-Analysis-Project-/blob/6a5990a32f757b0018df90a1f199a9f2eefa4661/screenshots/dashboard_page_1.png)
 Student_ID: Unique identifier for each student
 
 School: School name
