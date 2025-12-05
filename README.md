@@ -5,11 +5,11 @@ This capstone project focuses on analyzing school attendance and dropout pattern
 
 The project uses Microsoft Excel for data cleaning and transformation, and Power BI for interactive dashboards and visualizations. These tools help communicate findings clearly to both technical and non-technical audiences.
 
-1. Business Topic
+## 1. Business Topic
 
 Analyzing educational retention and dropout patterns among students in Kakuma Refugee Camp to inform interventions that enhance attendance and reduce dropout rates.
 
-2. Business Problems
+## 2. Business Problems
 
 High dropout rates in certain schools and demographic groups.
 
@@ -19,11 +19,11 @@ Seasonal attendance fluctuations due to household responsibilities, such as farm
 
 Lack of data-driven insights for NGOs and educational stakeholders to plan interventions effectively.
 
-3. Business Understanding
+## 3. Business Understanding
 
 Education in refugee settings is impacted by displacement, socio-economic constraints, and limited resources. Understanding attendance and dropout patterns is critical to improving educational retention, targeting interventions, and supporting equitable learning opportunities.
 
-4. Business Objectives
+## 4. Business Objectives
 
 Clean, organize, and standardize attendance and dropout datasets.
 
@@ -35,7 +35,7 @@ Visualize key insights through Power BI dashboards for clear communication.
 
 Provide data-driven recommendations to reduce dropout rates and improve retention.
 
-5. Business Criterion of Success
+## 5. Business Criterion of Success
 
 Successful identification of schools and demographics with high dropout rates.
 
@@ -45,15 +45,17 @@ Actionable recommendations based on data trends and patterns.
 
 Creation of a fully functional dashboard and presentation showcasing findings.
 
-6. Business Data Understanding
+## 6. Business Data Understanding
 
-Dataset: kakuma_education_access.csv
 
 Fields:
 ![Dashboard Page 1](screenshots/dashboard_page_1.png)  
 ![Dashboard Page 2](screenshots/dashboard_page_2.png)
-Student_ID: Unique identifier for each student
 
+
+Dataset: kakuma_education_access.csv
+
+Student_ID: Unique identifier for each student
 School: School name
 
 Gender: Male or Female
@@ -70,7 +72,7 @@ Reason_For_Dropout: Stated reason for leaving school
 
 This dataset captures attendance patterns, dropout instances, and reasons, allowing analysis across schools, genders, age groups, and time periods.
 
-7. Business Requirements
+## 7. Business Requirements
 
 Tools & Software Needed:
 
@@ -84,7 +86,7 @@ Dependencies:
 
 requirements.txt can include: pandas, numpy, matplotlib, seaborn, etc.
 
-8. Business EDA (Exploratory Data Analysis)
+## 8. Business EDA (Exploratory Data Analysis)
 
 Key analyses performed:
 
@@ -98,7 +100,7 @@ Trends over time (seasonal/yearly patterns)
 
 Aggregated metrics such as Dropout Rate per School and Attendance Score
 
-9. Results / Conclusion
+## 9. Results / Conclusion
 
 Female students are more likely to drop out due to early marriage or lack of menstrual support.
 
@@ -108,7 +110,7 @@ Attendance fluctuates seasonally, particularly during planting or harvesting per
 
 Dropout trends vary by age, class level, and socio-economic factors, highlighting the need for targeted interventions.
 
-10. Business Recommendations
+## 10. Business Recommendations
 
 Implement programs addressing female student retention, such as menstrual hygiene support and advocacy against early marriage.
 
@@ -120,7 +122,7 @@ Monitor attendance trends regularly to identify high-risk groups early.
 
 Use dashboards to communicate insights to NGOs, school administrators, and policymakers.
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 Microsoft Excel: Data cleaning, aggregation, and transformation
 
@@ -128,7 +130,7 @@ Power BI: Dashboard creation and interactive visualization
 
 Python (optional): Advanced analytics and trend analysis
 
-🧾 Deliverables
+## 🧾 Deliverables
 
 Power BI Dashboard (2+ pages):
 
@@ -144,16 +146,16 @@ Dataset Description & Methodology
 
 Findings with Visuals
 
-Recommendations
+## Recommendations
 
 Limitations & Future Research
 
 Conclusion
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 
 Duelkuoth Joseph Gok/ Capstone Projec Data Analyst Humanitarian Data Project/https://www.linkedin.com/in/duelkuoth-joseph/
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This project was developed for academic purposes using real data. It is not intended for direct policy use without further validation by relevant stakeholders.
