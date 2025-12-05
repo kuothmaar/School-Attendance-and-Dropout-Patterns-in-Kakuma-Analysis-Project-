@@ -1,5 +1,5 @@
-#School Attendance and Dropout Patterns in Kakuma Refugee Camp – Analysis Project
-##📊 Project Overview
+# School Attendance and Dropout Patterns in Kakuma Refugee Camp – Analysis Project
+## 📊 Project Overview
 
 This capstone project focuses on analyzing school attendance and dropout patterns within the Kakuma Refugee Camp. The goal is to uncover insights that can help improve educational outcomes for refugee children and youth by applying data analytics techniques to real-world datasets   
 
