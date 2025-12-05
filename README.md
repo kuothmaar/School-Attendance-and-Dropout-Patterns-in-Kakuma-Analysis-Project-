@@ -1,7 +1,7 @@
 School Attendance and Dropout Patterns in Kakuma Refugee Camp – Analysis Project
 📊 Project Overview
 
-This capstone project focuses on analyzing school attendance and dropout patterns within the Kakuma Refugee Camp. The goal is to uncover insights that can help improve educational outcomes for refugee children and youth by applying data analytics techniques to real-world datasets.
+This capstone project focuses on analyzing school attendance and dropout patterns within the Kakuma Refugee Camp. The goal is to uncover insights that can help improve educational outcomes for refugee children and youth by applying data analytics techniques to real-world datasets   
 
 The project uses Microsoft Excel for data cleaning and transformation, and Power BI for interactive dashboards and visualizations. These tools help communicate findings clearly to both technical and non-technical audiences.
 
@@ -151,8 +151,7 @@ Conclusion
 
 🙋‍♂️ Author
 
-Duelkuoth Joseph Gok
-Data Analytics Capstone Project/ Data Analyst | Humanitarian Data Project/https://www.linkedin.com/in/duelkuoth-joseph/
+Duelkuoth Joseph Gok/ Capstone Projec Data Analyst Humanitarian Data Project/https://www.linkedin.com/in/duelkuoth-joseph/
 
 ⚠️ Disclaimer
 
