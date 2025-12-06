@@ -1,7 +1,7 @@
 # School Attendance and Dropout Patterns in Kakuma Refugee Camp – Analysis Project
 ## 📊 Project Overview
 
-This capstone project focuses on analyzing school attendance and dropout patterns within the Kakuma Refugee Camp. The goal is to uncover insights that can help improve educational outcomes for refugee children and youth by applying data analytics techniques to real-world datasets   
+This capstone project focuses on analyzing school attendance and dropout patterns within the **Kakuma Refugee Camp.** The goal is to uncover insights that can help improve educational outcomes for refugee children and youth by applying data analytics techniques to real-world datasets   
 
 The project uses Microsoft Excel for data cleaning and transformation, and Power BI for interactive dashboards and visualizations. These tools help communicate findings clearly to both technical and non-technical audiences.
 
@@ -45,44 +45,42 @@ Actionable recommendations based on data trends and patterns.
 
 Creation of a fully functional dashboard and presentation showcasing findings.
 
-## 6. Business Data Understanding
-
-
 Fields:
 ![Dashboard Page 1](screenshots/dashboard_page_1.png)  
 ![Dashboard Page 2](screenshots/dashboard_page_2.png)
 
 
-Dataset: kakuma_education_access.csv
+## 6. Business Data Understanding
 
-Student_ID: Unique identifier for each student
-School: School name
+**Dataset: kakuma_education_access.csv**
+**Student_ID: Unique identifier for each student**
+**School: School name**
 
-Gender: Male or Female
+**Gender: Male or Female**
 
-Age: Student age
+**Age: Student age**
 
-Class_Level: Grade or class
+**Class_Level: Grade or class**
 
-Attendance_Rate: Attendance rate (%)
+**Attendance_Rate: Attendance rate (%)**
 
-Dropout_Status: Yes/No indicating dropout
+**Dropout_Status: Yes/No indicating dropout**
 
-Reason_For_Dropout: Stated reason for leaving school
+**Reason_For_Dropout: Stated reason for leaving school**
 
 This dataset captures attendance patterns, dropout instances, and reasons, allowing analysis across schools, genders, age groups, and time periods.
 
 ## 7. Business Requirements
 
-Tools & Software Needed:
+**Tools & Software Needed:**
 
-Microsoft Excel (data cleaning, aggregation)
+**Microsoft Excel (data cleaning, aggregation)**
 
-Power BI (dashboard and visualization)
+**Power BI (dashboard and visualization)**
 
-Python (optional, for advanced analysis)
+**Python (optional, for advanced analysis)**
 
-Dependencies:
+# Dependencies:
 
 requirements.txt can include: pandas, numpy, matplotlib, seaborn, etc.
 
@@ -153,10 +151,9 @@ Limitations & Future Research
 Conclusion
 
 ## 🙋‍♂️ Author
-
-# Duelkuoth Joseph Gok
-# /Data Analytics Capstone Project – July 2025
-# /https://www.linkedin.com/in/duelkuoth-joseph/
+**Duelkuoth Joseph Gok**
+**Data Analytics Capstone Project – July 2025**
+**https://www.linkedin.com/in/duelkuoth-joseph/**
 
 ## ⚠️ Disclaimer
 
