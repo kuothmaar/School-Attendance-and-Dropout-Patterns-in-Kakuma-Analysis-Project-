@@ -151,9 +151,9 @@ Limitations & Future Research
 Conclusion
 
 ## 🙋‍♂️ Author
-**Duelkuoth Joseph Gok**
-**Data Analytics Capstone Project – July 2025**
-**https://www.linkedin.com/in/duelkuoth-joseph/**
+**Duelkuoth Joseph Gok**/
+/**Data Analytics Capstone Project – July 2025**
+/**https://www.linkedin.com/in/duelkuoth-joseph/**
 
 ## ⚠️ Disclaimer
 
