@@ -154,7 +154,9 @@ Conclusion
 
 ## 🙋‍♂️ Author
 
-Duelkuoth Joseph Gok/ Capstone Projec Data Analyst Humanitarian Data Project/https://www.linkedin.com/in/duelkuoth-joseph/
+# Duelkuoth Joseph Gok
+# /Data Analytics Capstone Project – July 2025
+# /https://www.linkedin.com/in/duelkuoth-joseph/
 
 ## ⚠️ Disclaimer
 
